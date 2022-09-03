@@ -23,6 +23,11 @@ Use below sequence of commands to set up and run the application
 - npm run dev or npm run watch
 
 
+## Conversion API Used:
+APILayer
+https://apilayer.com/
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
